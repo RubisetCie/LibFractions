@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509106071 source:c:\users\rubis\desktop\fractions\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1509535856 source:g:\fractions\main.c
+	<stdlib.h>
+	<stdio.h>
+	<fraction.h>
+
+1509535767 g:\fractions\fraction.h
+
